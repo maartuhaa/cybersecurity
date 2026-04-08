@@ -1,7 +1,7 @@
 ﻿# Fordypningsoppgave – IT-drift (Cybersikkerhet)
 
 ## Om prosjektet
-Dette prosjektet er en del av fordypningsoppgaven i IT-drift. Jeg har valgt å jobbe med cybersikkerhet.
+Dette prosjektet er en fordypningsoppgaven i IT-drift. Jeg har valgt å jobbe med cybersikkerhet.
 
 ## Hvorfor jeg valgte dette temaet
 Jeg valgte cybersikkerhet fordi det er et viktig område innen IT-drift. Det handler om å beskytte systemer og data, noe som er relevant for arbeid i IT.
